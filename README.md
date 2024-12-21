@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning React
 
-- 👨‍💻 All of my projects are available at franciscosotelo.com
+- 👨‍💻 All of my projects are available at **franciscosotelo.com**
 
 - 📫 How to reach me **franciscosotelov@gmail.com**
 
