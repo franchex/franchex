@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Francisco Sotelo</h1>
 <h3 align="center">A passionate web developer from Bolivia</h3>
 
-- 🔭 I’m currently working on [full house](http://fullhouseapp.me)
+- 🔭 I’m currently working on my Portfolio
 
-- 🌱 I’m currently learning **Test Development Driven**
+- 🌱 I’m currently learning React
 
-- 👨‍💻 All of my projects are available at [troopl.com/franciscosotelov](troopl.com/franciscosotelov)
+- 👨‍💻 All of my projects are available at franciscosotelo.com
 
 - 📫 How to reach me **franciscosotelov@gmail.com**
 
